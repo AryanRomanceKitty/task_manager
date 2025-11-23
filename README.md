@@ -33,6 +33,8 @@ First, it asks how many tasks you want to add right away.
  Prevents common mistakes like empty tasks or invalid numbers  
  Clear feedback after every action  
  Easy to read and modify—perfect for learning or extending
+ 
+<img width="1215" height="925" alt="Screenshot 2025-11-23 171440" src="https://github.com/user-attachments/assets/1365d969-0ae5-49e5-9298-8aca97ab1f64" />
 
 
 
