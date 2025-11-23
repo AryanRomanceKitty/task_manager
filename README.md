@@ -36,5 +36,3 @@ First, it asks how many tasks you want to add right away.
 
 
 
-Happy coding!  
-— A first-year Computer Science student
